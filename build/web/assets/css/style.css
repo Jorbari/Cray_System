@@ -1,0 +1,47 @@
+#darken {
+  height:auto;
+  /*background-color:rgba(190,195,200,0.89);*/
+  text-align:center;
+  padding-bottom:4%;
+}
+
+
+#NetworkIcon {
+  width:100%;
+}
+
+@media (min-width: 992px) {
+  #AbText {
+    max-width:73%;
+    margin:auto;
+    text-align:justify;
+    line-height:1.7em;
+    font-weight:200;
+    font-size:1.3em;
+  }
+}
+
+@media (min-width: 300px) and (max-width:991px) {
+  #AbText {
+    max-width:60%;
+    margin:auto;
+    text-align:justify;
+    line-height:1.7em;
+    font-weight:300;
+  }
+}
+
+@media (min-width: 992px) {
+  #AbSection {
+    margin-top:15%;
+  }
+}
+
+#modal1 {
+  /*background-color:rgb(77,84,92);*/
+}
+
+#modalBody {
+  background-color:rgba(145,136,140,0.36);
+}
+
